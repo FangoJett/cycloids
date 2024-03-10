@@ -1,0 +1,4 @@
+Michał Wera 189001
+
+Poprawione jest jedynie zadanie (list.py) z krzywa parametryczna zadana przez prowadzącego. 
+Reszta zadań bez zmian.
